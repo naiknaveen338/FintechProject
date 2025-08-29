@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Fintech" parent="android:Theme.Material.Light.NoActionBar">
+        //This will disable the preview of your app when it's loading
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+</resources>
